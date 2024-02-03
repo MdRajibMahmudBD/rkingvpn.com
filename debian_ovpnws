@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='209.159.151.58';
-USER='rkingvpn_rkingvpn';
-PASS='rkingvpn_rkingvpn@#2023';
-DBNAME='rkingvpn_rkingvpn';
+HOST='66.45.251.234';
+USER='ssitpro_rkingvpnnew';
+PASS='ssitpro_rkingvpnnew@#2023';
+DBNAME='ssitpro_rkingvpnnew';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
