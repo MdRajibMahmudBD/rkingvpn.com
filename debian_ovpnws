@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='209.159.151.58';
+HOST='66.45.251.234';
 USER='rkingvpn_rkingvpn';
 PASS='rkingvpn_rkingvpn@#2023';
 DBNAME='rkingvpn_rkingvpn';
